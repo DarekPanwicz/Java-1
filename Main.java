@@ -6,7 +6,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-
+//                    Napisać program, który oblicza wartość współczynnika BMI (ang. body mass
+//                    index) wg. wzoru: waga podzielona przez
+//                    wzrost do potegi 2 . Jeżeli wynik jest w przedziale (18,5 - 24,9) to wypisuje
+//                    ”waga prawidłowa”, jeżeli poniżej to ”niedowaga”, jeżeli powyżej ”nadwaga”.
 
 
 
@@ -55,6 +58,8 @@ public class Main {
 
 
         }
+
+        // ciagle pokazuje mi zly wynik :(
 
 
 
